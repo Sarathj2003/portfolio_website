@@ -21,6 +21,11 @@
 .img-h-25{
     height: 11.9rem;
 }
+.scroll-div{
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 33.7rem;
+}
 
 
 /* fonts */
